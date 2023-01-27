@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+
+
+
+
+
+
+![little lemon](https://user-images.githubusercontent.com/29535483/215125325-3c339ff0-4e16-45fb-bb43-56dfb1085dd9.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
